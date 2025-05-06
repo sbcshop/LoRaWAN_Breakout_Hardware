@@ -3,8 +3,8 @@
 This Github provides hardware design files for LoRaWAN Breakout.
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/LoRaWAN_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View of various MicroFlex MCU boards.
-  - [/Mechanical Data](https://github.com/sbcshop/LoRaWAN_Breakout_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files of various MicroFlex MCU boards.
+  - [/Design Data](https://github.com/sbcshop/LoRaWAN_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View of LoRaWAN Breakout.
+  - [/Mechanical Data](https://github.com/sbcshop/LoRaWAN_Breakout_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files of LoRaWAN Breakout.
   - [Getting Started Guide](https://github.com/sbcshop/LoRaWAN_Breakout_Software) - This repository includes instructions for getting started with LoRaWAN Breakout.
 
 **DISCLAIMER: The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
