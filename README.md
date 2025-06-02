@@ -1,4 +1,6 @@
 # LoRaWAN_Breakout_Hardware
+<img src="https://github.com/sbcshop/LoRaWAN_Breakout_Software/blob/main/images/feature_banner.png" width="" height="">
+LoRaWAN RAK3172 module breakout for standalone use or interface with other controllers of your choice like arduino, esp32, Pico and more. Supports both LoRaWAN and P2P mode for custom long-range networking.
 
 This Github provides hardware design files for LoRaWAN Breakout.
 
